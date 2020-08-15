@@ -6,6 +6,7 @@
     android:orientation="vertical"
     >
 
+
     <!-- A RecyclerView with some commonly used attributes -->
     <android.support.v7.widget.RecyclerView
         android:id="@+id/my_recycler_view"
